@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxtitlgFVI0KPcTbr5A+uHQAAAAACAAAAAAADZgAAwAAAABAAAACYlZj2/ESVKLfvBXfwf3SmAAAAAASAAACgAAAAEAAAAFFfkAbPPD1eP9vOurOXX7qAAAAAjn34P1Fgaf7FnJFwen+ll2HLeTMh9cBV2QvSWcazc3w+ygY1REJhjkXDoUJN3lIW+pQ+q0xn2RWEs4OVimOAdFaw0dKzS3o7qqL6BU/1/AP+4FP726pAFLD2QN2e+CmseCxrg4niQYPEBmfREgnQ3+fh6PKsd4EeS8eCC9wNITcUAAAAQahTAfpDXfT3XghVzhtb6MFef/A=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Data Source=tcp:bdnotesappdbserver.database.windows.net,1433%3bInitial Catalog=bdnotesapp%3bUser Id=administrador%40bdnotesappdbserver%3bPassword=computadora1.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="backend_tareas.Context.AplicationDbContext">
+      <Value>Data Source=tcp:bdnotesappdbserver.database.windows.net,1433%3bInitial Catalog=bdnotesapp%3bUser Id=administrador%40bdnotesappdbserver%3bPassword=computadora1.</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

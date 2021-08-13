@@ -1,0 +1,67 @@
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\serviceDependencies.backend-NotasTest - Web Deploy.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\backend-NotasTest - Web Deploy\mssql1.arm.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\backend-NotasTest - Web Deploy\profile.arm.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.exe
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.deps.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.runtimeconfig.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.runtimeconfig.dev.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\backend-tareas.pdb
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.csprojAssemblyReference.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.AssemblyInfoInputs.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.AssemblyInfo.cs
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.csproj.CoreCompileInputs.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.RazorTargetAssemblyInfo.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.csproj.CopyComplete
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.Manifest.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\staticwebassets\backend-tareas.StaticWebAssets.xml
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.dll
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.pdb
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\backend-tareas.genruntimeconfig.cache
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\serviceDependencies.backend-tareas20210813141233app - Web Deploy.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\backend-tareas20210813141233app - Web Deploy\mssql1.arm.json
+C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\backend-tareas20210813141233app - Web Deploy\profile.arm.json

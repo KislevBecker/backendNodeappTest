@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\KISLEV.BECKER\Desktop\otro back vue\backend-tareas\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\backend_tareas.Context.AplicationDbContext.sql" />
+</sitemanifest>
